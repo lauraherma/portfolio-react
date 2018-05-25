@@ -31,8 +31,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state relative-caret-position="-1">
+              <caret column="35" selection-start-column="35" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -203,18 +203,18 @@
       <option name="presentableId" value="Default" />
       <updated>1526817744765</updated>
       <workItem from="1526817748070" duration="44346000" />
-      <workItem from="1527157949591" duration="27037000" />
+      <workItem from="1527157949591" duration="27138000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71383000" />
+    <option name="totallyTimeSpent" value="71484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="301" y="131" width="891" height="651" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="3" sideWeight="0.49819493" visible="true" weight="0.40574712" />
+      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.49819493" visible="true" weight="0.40574712" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
@@ -223,7 +223,7 @@
       <window_info id="npm" order="0" sideWeight="0.50180507" side_tool="true" weight="0.40574712" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.43862817" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32851985" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32851985" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -534,8 +534,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="-1">
+          <caret column="35" selection-start-column="35" selection-end-column="35" />
         </state>
       </provider>
     </entry>
