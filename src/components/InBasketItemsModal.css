@@ -1,0 +1,13 @@
+.basket-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 8px;
+}
+
+.basket-item img {
+    border-radius: 5px;
+    width: 64px;
+    margin-right: 16px;
+}

@@ -1,0 +1,27 @@
+.ShopCardText {
+    text-align: left;
+    font-size: 12px;
+    padding-bottom: 20px;
+    height: 72px;
+
+}
+
+.card-body {
+    text-align: left;
+
+}
+
+.ShopCardTitle {
+    font-weight: bold;
+    text-align: left;
+    font-size: 12px;
+}
+
+
+.main-navbar .navbar-nav {
+    flex-direction: row;
+}
+
+.card-img-top {
+    cursor: pointer;
+}
